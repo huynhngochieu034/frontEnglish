@@ -1,0 +1,39 @@
+img {
+    margin: auto;
+    width: 100%;
+    height: 200px;
+    align-self: center;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.test-bg{
+    background: rgb(120, 151, 120);
+}
+
+.fill{
+    background: rgb(227, 229, 236);
+    color: blue;
+    width: 35px;
+    height: 35px;
+    border-radius: 20%;
+    display: inline-block;
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+    margin-left: 1px;
+}
+
+.fill:hover{
+    cursor: pointer;
+}
+
+.practice{
+    background: #222 url('../../images/background.jpg') center center no-repeat;
+}
